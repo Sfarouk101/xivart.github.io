@@ -1,2 +1,3 @@
-# xivart.github.io
-xivart.github.io bbounty test
+# Subdomain Takeover Proof
+
+This domain has been taken over for security demonstration purposes.
